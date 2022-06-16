@@ -1,2 +1,6 @@
 # ethereum-dataset-with-dashboad
 EDA on ethereum dataset with tableau dashboard and ppt
+The dataset has been obtained from investing.com, this dataset mainly consists of opening prices and closing prices of stock from 2017, here we observed the monthly wise data analysis of stock prices its ups and lows, the total volume traded both year wise and month wise is also analysed and shown in excellent visualizations, the highest prices and the lowest price are also shown, the total volume traded year wise and month wise are also show, analysis regarding which month the stock was high and which month the stock was low is also shown. Then after feature engineering the data cleaning , finding correlation, null value treatment and removing the feature with high correlation are also shown and later using linear regression model the prediction is also made the r2 score and rmse score is also found and with minimal reguralization and using a simple model a decent analysis and prediction has been made.
+using TABLEAU the dashboard which depicts each and every aspect of stock price high's and low's are also shown this dashboard has been published in tableau public and it is present up to the date.
+
+THANK YOU
